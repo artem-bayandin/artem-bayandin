@@ -2,10 +2,9 @@
 
 > <br/> 🧨 [OPEN] to new opportunities 🧨 <br /> &nbsp;
 
-- *Web3 and Web Tech Lead*
+- *Web3 and Web Tech Lead, Senior Software Engineer*
 - *Solidity, C#, JavaScript, Rust, Go, SQL, NoSQL*
 - *DeFi, Smart contracts, Web API, full stack*
-- *Senior Software Engineer*
 - *15 years of experience* (since 2009)
 
 ![My GitHub stats](https://github-readme-stats-private-five.vercel.app/api?username=artem-bayandin&show_icons=true&show=prs_merged_percentage&theme=gruvbox&rank_icon=github&include_all_commits=true&hide=issues,contribs&exclude_repo=github-readme-stats,github-readme-stats-private,anuraghazra.github.io)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats-private-five.vercel.app/api/top-langs/?username=artem-bayandin&layout=compact&exclude_repo=github-readme-stats,github-readme-stats-private,anuraghazra.github.io)
