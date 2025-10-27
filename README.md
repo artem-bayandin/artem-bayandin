@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+This page is in progress... Will be fixed soon...
+
+Just testing different view styles.
+
 <!--
-**artem-bayandin/artem-bayandin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![My GitHub stats](https://github-readme-stats-private-five.vercel.app/api?username=artem-bayandin&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=gruvbox&rank_icon=github&include_all_commits=true)
+![My GitHub stats](https://github-readme-stats-private-five.vercel.app/api?username=artem-bayandin&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=gruvbox&rank_icon=github&include_all_commits=true&exclude_repo=github-readme-stats,github-readme-stats-private,anuraghazra.github.io)
+
+![Top Langs](https://github-readme-stats-private-five.vercel.app/api/top-langs/?username=artem-bayandin&layout=compact)
+![Top Langs](https://github-readme-stats-private-five.vercel.app/api/top-langs/?username=artem-bayandin&layout=compact&exclude_repo=github-readme-stats,github-readme-stats-private,anuraghazra.github.io)
+
+[github]: https://github.com/artem-bayandin
+[book-a-call]: https://calendly.com/bayandin-artem/30min
+[linkedin]: https://www.linkedin.com/in/artembayandin/
