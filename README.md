@@ -22,14 +22,7 @@ Skills (years of experience by 2025):
 - Team Leadership : 9
 - Rust, Go : learning in 2025
 
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%23.svg" alt="C#" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/xandemon/developer-icons/refs/heads/main/icons/solidity.svg" alt="Solidity" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="JavaScript" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/xandemon/developer-icons/refs/heads/main/icons/typescript.svg" alt="TypeScript" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/xandemon/developer-icons/refs/heads/main/icons/microsoft-sql-server.svg" alt="SQL" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/xandemon/developer-icons/refs/heads/main/icons/mongodb.svg" alt="MongoDb" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/rust.svg" alt="Rust" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/go.svg" alt="Go" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%23.svg" alt="C#" height="50" width="50" /> <img src="https://raw.githubusercontent.com/xandemon/developer-icons/refs/heads/main/icons/solidity.svg" alt="Solidity" height="50" width="50" /> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="JavaScript" height="50" width="50" /> <img src="https://raw.githubusercontent.com/xandemon/developer-icons/refs/heads/main/icons/typescript.svg" alt="TypeScript" height="50" width="50" /> <img src="https://raw.githubusercontent.com/xandemon/developer-icons/refs/heads/main/icons/microsoft-sql-server.svg" alt="SQL" height="50" width="50" /> <img src="https://raw.githubusercontent.com/xandemon/developer-icons/refs/heads/main/icons/mongodb.svg" alt="MongoDb" height="50" width="50" /> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/rust.svg" alt="Rust" height="50" width="50" /> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/go.svg" alt="Go" height="50" width="50" />
 
 #
 
