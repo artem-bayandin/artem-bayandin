@@ -17,7 +17,7 @@ Skills (years of experience by 2025):
 - JavaScript : 9
 - SQL, NoSQL : 10
 - Smart Contracts : 4
-- Full Stack Development : 14
+- Full Stack Development : 15
 - Team Leadership : 9
 - Rust, Go : learning in 2025
 
