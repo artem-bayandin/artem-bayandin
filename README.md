@@ -6,6 +6,7 @@
 - *Solidity, C#, JavaScript, Rust, Go, SQL, NoSQL*
 - *DeFi, Smart contracts, Web API, full stack*
 - *15 years of experience* (since 2009)
+- Founder of *[Shept](https://chromewebstore.google.com/detail/shept/neinfkegbabifhjnjjimmnadbooacgpi)* - web3 platform to share your opinions and earn with no limits, no censorship
 
 ![My GitHub stats](https://github-readme-stats-private-five.vercel.app/api?username=artem-bayandin&show_icons=true&show=prs_merged_percentage&theme=gruvbox&rank_icon=github&include_all_commits=true&hide=issues,contribs&exclude_repo=github-readme-stats,github-readme-stats-private,anuraghazra.github.io)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats-private-five.vercel.app/api/top-langs/?username=artem-bayandin&layout=compact&exclude_repo=github-readme-stats,github-readme-stats-private,anuraghazra.github.io)
 
@@ -33,16 +34,16 @@ Skills (years of experience by 2025):
 
 > <br /> 💰 **Ready to push the boundaries of what's possible in web3 or web development? [Mail me][mail-to] and let's discuss innovative solutions that sky rocket your project to Eternity (and beyond)! <br /> &nbsp;**
 
-[<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/social%20icons/linkedin.svg" alt="LinkedIn" height="35" width="35" />][linkedin]
 [<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/social%20icons/email.svg" alt="Mail To" height="35" width="35" />][mail-to]
 [<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/social%20icons/github.svg" alt="GitHub" height="35" width="35" />][github]
+[<img src="https://lh3.googleusercontent.com/TNsn9grKb1_NNA8z02DgT66pjWzMA8jJ46SGZaDFQtoQXNmbMMnvJpJMwhLRiiQhpk2YXDNCBz0FhQU1q7_0yBB1l7k" alt="Shept" height="35" width="35" />][shept]
 
 
 
 
 [github]: https://github.com/artem-bayandin
 [book-a-call]: https://calendly.com/bayandin-artem/30min
-[linkedin]: https://www.linkedin.com/in/artembayandin/
+[shept]: https://chromewebstore.google.com/detail/shept/neinfkegbabifhjnjjimmnadbooacgpi
 [mail-to]: mailto:bayandin.artem.official@gmail.com
 [dev-icons-1]: https://github.com/xandemon/developer-icons
 [dev-icons-2]: https://github.com/bablubambal/All_logo_and_pictures
