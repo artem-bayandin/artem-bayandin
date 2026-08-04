@@ -3,7 +3,7 @@
 > <br/> 🧨 [OPEN] to new opportunities 🧨 <br /> &nbsp;
 
 - *Web3 and Web Tech Lead, Senior Software Engineer*
-- *C#, JavaScript, Solidity, SQL, NoSQL; learning Rust, Go*
+- *C#, JavaScript, Solidity, SQL, NoSQL, Python; learning Rust, Go*
 - *DeFi, Smart contracts, Web API, full stack*
 - *15 years of experience* (since 2009)
 - Founder of *[Shept](https://chromewebstore.google.com/detail/shept/neinfkegbabifhjnjjimmnadbooacgpi)* - web3 platform to share your opinions and earn with no limits, no censorship
@@ -18,6 +18,7 @@ Skills (years of experience by 2025):
 - Smart Contracts : 5
 - Full Stack Development : 15
 - Team Leadership : 10
+- Python: 1
 - Rust, Go : learning in 2026
 
 #
